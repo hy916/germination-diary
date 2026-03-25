@@ -12,7 +12,7 @@ Changelog
 
 ## [v1.0.0](https://github.com/jaywcjlove/scap/releases/tag/v1.0.0)
 
-1. feat: add numeric display to size settings.
+1. feat: add numeric display to size settings. 
 2. feat: add text annotations.
 3. feat: add Korean/Japanese language support.
 4. feat: add status bar menu setting.
