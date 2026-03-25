@@ -10,7 +10,7 @@
 <img alt="Scap AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
-## [v1.0.0](https://github.com/jaywcjlove/scap/releases/tag/v1.0.0)
+## [v1.1.0](https://github.com/jaywcjlove/scap/releases/tag/v1.1.0)
 
 1. feat: 尺寸设置增加数字显示。
 2. feat: 添加文本标注功能。

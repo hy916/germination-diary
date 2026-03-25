@@ -10,7 +10,7 @@ Changelog
 <img alt="Scap AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
-## [v1.0.0](https://github.com/jaywcjlove/scap/releases/tag/v1.0.0)
+## [v1.1.0](https://github.com/jaywcjlove/scap/releases/tag/v1.1.0)
 
 1. feat: add numeric display to size settings. 
 2. feat: add text annotations.
