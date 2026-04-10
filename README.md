@@ -40,16 +40,18 @@
 
 ![](./assets/screenshots-4.png)
 
-Scap is a macOS app designed specifically for image screenshotting, annotation, and canvas creation. It provides a focused editing canvas integrated with powerful tools, including drawing tools, blur/mosaic, spotlight, QR code overlay, watermark, and image layer paste functions. In addition to robust editing capabilities, Scap supports editing existing images, a free drawing board mode, and a precise screenshot mode, helping users efficiently complete image processing tasks.
+Scap is a macOS app designed specifically for image screenshotting, annotation, and canvas creation. It provides a focused editing canvas integrated with powerful tools, including drawing tools, blur/mosaic, spotlight, QR code overlay, watermark, image layer paste functions, screenshot OCR, and QR code recognition. In addition to robust editing capabilities, Scap supports editable OCR text results, editing existing images, a free drawing board mode, a precise screenshot mode, and a localized interface in Simplified Chinese, Traditional Chinese, English, German, French, Japanese, and Korean, helping users efficiently complete image processing tasks.
 
 ## Features
 
-- **Screenshots:** Area capture mode with crosshair guidance.
+- **Screenshots:** Area capture mode with crosshair guidance, plus OCR and QR code recognition for captured content.
 - **Edit Mode:** Annotation workflow designed for photos and screenshots.
 - **Drawing Board Mode:** A blank canvas for freeform creation.
 - **Toolbox:** Crop/selection, arrow, freehand brush, line (solid/dashed), rectangle, ellipse, counter marks, blur/mosaic, spotlight, QR code, watermark, and pasted image layers.
+- **OCR Results:** Recognized text remains editable for quick cleanup and reuse.
 - **Image Overlay:** Paste images with auto-scaling to fit the canvas.
 - **Export & Sharing:** Export or copy to clipboard with precise DPI handling.
+- **Localization:** Supports Simplified Chinese, Traditional Chinese, English, German, French, Japanese, and Korean.
 - **Social Badge:** Optional social platform corner badge (icon + name/handle).
 
 ## Modes
@@ -62,11 +64,12 @@ Scap is a macOS app designed specifically for image screenshotting, annotation, 
 
 * `V`: Crop / Select
 * `A`: Arrow
-* `D`: Freehand Brush
+* `T`: 文本
+* `D`: Free Brush
 * `L`: Line
 * `R`: Rectangle
 * `O`: Ellipse
-* `C`: Counter Mark
+* `C`: Number Marker
 * `B`: Blur / Mosaic
 * `S`: Spotlight
 * `W`: Watermark

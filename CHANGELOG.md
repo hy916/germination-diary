@@ -10,6 +10,15 @@ Changelog
 <img alt="Scap AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.2.0](https://github.com/jaywcjlove/scap/releases/tag/v1.2.0)
+
+1. feat: add translation contribution links to help menus
+2. feat: add German, Traditional Chinese and French language support
+3. feat: move capture actions into the File menu
+4. feat: add screenshot OCR and QR code recognition
+5. perf: make OCR text results editable and refine preview window and shortcuts
+6. fix: fix drawing board export background, canvas rendering and settings panel visibility
+
 ## [v1.1.0](https://github.com/jaywcjlove/scap/releases/tag/v1.1.0)
 
 1. feat: add numeric display to size settings. 

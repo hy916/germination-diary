@@ -10,6 +10,15 @@
 <img alt="Scap AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.2.0](https://github.com/jaywcjlove/scap/releases/tag/v1.2.0)
+
+1. feat: 在帮助菜单中添加翻译贡献链接
+2. feat: 新增德语、繁体中文和法语支持
+3. feat: 将截图操作移入“文件”菜单
+4. feat: 新增截图 OCR 和二维码识别功能
+5. perf: 支持 OCR 文本结果可编辑，并优化预览窗口和快捷键处理
+6. fix: 修复画板导出背景、画布渲染及设置面板显示问题
+
 ## [v1.1.0](https://github.com/jaywcjlove/scap/releases/tag/v1.1.0)
 
 1. feat: 尺寸设置增加数字显示。
