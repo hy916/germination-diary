@@ -16,7 +16,7 @@
       <img src="https://img.shields.io/github/v/release/jaywcjlove/scap?color=3b82f6" alt="Release" />
     </a>
     <img src="https://img.shields.io/badge/macOS-26%2B-363b44?logo=apple&logoColor=white" alt="macOS 14+" />
-    <a href="https://apps.apple.com/app/Scap/6758053530">
+    <a href="https://jaywcjlove.github.io/maslink/?id=6758053530">
       <img src="https://img.shields.io/badge/下载-AppStore-363b44?logo=AppStore&logoColor=white" alt="Scap AppStore" />
     </a>
   </p>
@@ -26,7 +26,7 @@
     <a href="./CHANGELOG.zh.md">更新日志</a>
   </p>
   <p>
-    <a target="_blank" href="https://apps.apple.com/app/Scap/6758053530" title="Scap for macOS">
+    <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6758053530" title="Scap for macOS">
       <img alt="Scap AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
     </a>
   </p>

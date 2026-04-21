@@ -6,7 +6,7 @@
 更新日志
 ===
 
-<a target="_blank" href="https://apps.apple.com/app/Scap/6758053530" title="Scap for macOS">
+<a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6758053530" title="Scap for macOS">
 <img alt="Scap AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
