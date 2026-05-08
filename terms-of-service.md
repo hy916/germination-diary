@@ -6,30 +6,30 @@
 Terms of Service  
 ===
 
-Welcome to **Scap**! These Terms of Service (hereinafter referred to as "Terms") govern your use of this application (hereinafter referred to as "the App"). Please read these Terms carefully before using the App. Your use of the App indicates your agreement to comply with these Terms.
+Welcome to **Sprout Diary**. These Terms of Service (the "Terms") govern your use of this application (the "App"). Please read them carefully before use. By using the App, you agree to these Terms.
 
 ## Service Overview
 
-**Scap** is a professional macOS application designed specifically for image screenshot capture, annotation, and drawing board creation. It provides a focused editing canvas that integrates multiple powerful features, including drawing tools, blur/mosaic, spotlight, QR code overlay, watermark, and image layer pasting. In addition to robust editing capabilities, Scap supports editing existing images, a free creative drawing board mode, and a precise screenshot mode, helping users efficiently complete image processing tasks. The App operates offline, and all functions are performed locally without relying on an internet connection.
+**Sprout Diary** is a baby growth record app for families. It helps track baby profiles, feeding, diaper logs, sleep, health status, growth data, reminders, backup, and exports for 0-3 year old childcare scenarios.
 
-**Please Note:** This application is designed for image editing and annotation purposes. Please use the tools responsibly and respect copyright when editing and sharing images.
+**Please Note:** Records and reminders in the App are for parenting support only and do not replace professional medical advice.
 
 ## User Responsibilities
 
-- You agree to use the App only for lawful purposes and not for any illegal, infringing, or unauthorized use.  
-- When using image editing and annotation features, please respect intellectual property rights and copyright laws.
-- You are solely responsible for your use of the App and any consequences thereof, including compliance with applicable laws and regulations.
-- Please ensure that any images you edit, annotate, or share comply with relevant copyright laws and usage rights.
+- You agree to use the App only for lawful purposes and not for illegal, infringing, or unauthorized activities.  
+- You are responsible for ensuring the information you enter is accurate and for safeguarding your device/account (if applicable).
+- You are solely responsible for your use of the App and compliance with applicable laws.
+- You understand that records, charts, and reminder outputs are references only and are not medical diagnoses.
 
 ## Privacy Protection
 
-**Scap** respects your privacy. The App does not collect, store, or transmit any personal data. All settings and data are stored locally on your device. For more details, please refer to our [Privacy Policy](#).
+**Sprout Diary** respects your privacy. Data is handled only within the scope required for product functions and protected according to our privacy policy.
 
 ## Disclaimer
 
-- The App is provided "as is" without any express or implied warranties regarding its availability, accuracy, or suitability for any purpose.  
-- To the extent permitted by applicable law, the developer shall not be liable for any direct or indirect losses arising from the use of the App, including but not limited to image quality, export format compatibility, data loss during editing, or any copyright infringement issues arising from user-generated content.
-- The quality and accuracy of edited images depend on various factors including source image quality and user editing choices.
+- The App is provided "as is" without express or implied warranties of availability, continuity, accuracy, or fitness for a particular purpose.  
+- To the extent permitted by law, the developer is not liable for direct or indirect losses caused by use or inability to use the App, including data loss, missed reminders, export failures, or effects caused by user operations.
+- For medical decisions, always consult qualified professionals. The developer is not responsible for decisions made solely based on App records.
 
 ## Changes to the Terms
 
@@ -40,4 +40,4 @@ We may update these Terms from time to time due to functional updates or legal r
 If you have any questions or suggestions regarding these Terms of Service or our Privacy Policy, please contact us at:  
 📧 **[kennyiseeyou@gmail.com](mailto:kennyiseeyou@gmail.com)**
 
-These Terms of Service are effective as of **Feb 10, 2026**.
+These Terms of Service are effective as of **May 8, 2026**.

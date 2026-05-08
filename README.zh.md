@@ -3,12 +3,12 @@
 > 声明：此项目并非开源项目，仓库作为官方网站，用于收集问题和用户需求。这样做是为了节省成本，因为没有官网，应用无法通过审核。
 <!--idoc:ignore:end-->
 
-<div align="center">
+<!-- <div align="center"> -->
   <br />
   <br />
   <img src="./assets/logo.png" width="160" height="160">
   <h1>
-    Scap
+    萌芽日记
   </h1>
   <!--rehype:style=border: 0;-->
   <p>
@@ -17,67 +17,61 @@
     </a>
     <img src="https://img.shields.io/badge/macOS-26%2B-363b44?logo=apple&logoColor=white" alt="macOS 14+" />
     <a href="https://jaywcjlove.github.io/maslink/?id=6758053530">
-      <img src="https://img.shields.io/badge/下载-AppStore-363b44?logo=AppStore&logoColor=white" alt="Scap AppStore" />
+      <img src="https://img.shields.io/badge/下载-AppStore-363b44?logo=AppStore&logoColor=white" alt="萌芽日记 AppStore" />
     </a>
   </p>
   <p>
     <a href="./README.md">English</a> • 
-    <a target="_blank" href="https://github.com/jaywcjlove/scap/issues/new?template=bug_report_cn.yml">联系&支持</a> • 
+    <a target="_blank" href="https://github.com/hy916/scap/issues/new?template=bug_report_cn.yml">联系&支持</a> • 
     <a href="./CHANGELOG.zh.md">更新日志</a>
   </p>
   <p>
-    <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6758053530" title="Scap for macOS">
-      <img alt="Scap AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
+    <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6758053530" title="萌芽日记 for macOS">
+      <img alt="萌芽日记 AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
     </a>
   </p>
 </div>
 
-![](./assets/screenshots-1.png)
+![](./assets/01.jpg)
 
-![](./assets/screenshots-2.png)
+![](./assets/02.jpg)
 
-![](./assets/screenshots-3.png)
+![](./assets/03.jpg)
 
-![](./assets/screenshots-4.png)
+![](./assets/04.jpg)
 
-Scap 是一款专为 macOS 用户设计的图像截图、标注与画板应用。它提供一个专注的编辑画布，集成了多种强大功能，包括绘图工具、模糊/马赛克、聚光灯、二维码叠加、水印、图片图层粘贴、截图 OCR 以及二维码识别。除了强大的编辑功能外，Scap 还支持 OCR 文本结果可编辑、编辑现有图像、自由创作的画板模式、精准的屏幕截图模式，并提供简体中文、繁体中文、英文、德语、法语、日语和韩语界面，帮助用户高效完成图像处理任务。
+![](./assets/05.jpg)
+
+![](./assets/06.jpg)
+
+![](./assets/07.jpg)
+
+![](./assets/08.jpg)
+
+萌芽日记APP用途在于新手父母在宝宝出生后，需记录大量基础信息、喂养细节、日常状态及生长发育情况，当前多通过纸质笔记、备忘录等方式记录，存在信息零散、查找不便、统计困难、无法直观追踪成长趋势等问题。本APP旨在整合宝宝出生至成长各阶段的核心记录需求，提供便捷、全面、直观的记录工具，帮助父母系统化留存宝宝成长痕迹，同时为宝宝体检、就医提供精准的历史数据支撑，减轻育儿记录负担。
 
 ## 功能特性
 
-- **屏幕截图：** 支持带有十字准星辅助的区域截图模式，并提供截图 OCR 和二维码识别能力。
-- **编辑模式：** 专为图片和截图设计的标注模式。
-- **画板模式：** 用于自由创作的空白画板。
-- **工具箱：** 裁剪/选择、箭头、自由画笔、直线（含虚线）、矩形、椭圆、计数标记、模糊/马赛克、聚光灯、二维码、水印、粘贴图片图层。
-- **OCR 文本编辑：** 识别后的文本结果支持继续编辑，便于整理和复用。
-- **图片粘贴叠加：** 支持图片粘贴并自动调整大小以适应画布。
-- **导出与共享：** 支持导出和复制到剪贴板，并能精准处理 DPI（分辨率）。
-- **多语言支持：** 支持简体中文、繁体中文、英文、德语、法语、日语和韩语。
-- **社交徽章：** 可选的社交平台角标（图标 + 姓名/用户名）。
+**喂养记录**  
+ 
+记录母乳、配方奶、辅食、饮水量，自动统计喂养间隔，支持夜奶专项记录。 
 
-## 工作模式
-
-* `编辑 (Edit)`：标注指定图像。
-* `画板 (DrawingBoard)`：自由绘图画布。
-* `屏幕截图 (ScreenCrop)`：选取并捕获屏幕区域。
-
-## 快捷键 (工具)
-
-* `V`：裁剪/选择
-* `A`：箭头
-* `T`：文本
-* `D`：自由画笔
-* `L`：直线
-* `R`：矩形
-* `O`：椭圆
-* `C`：计数标记
-* `B`：模糊/马赛克
-* `S`：聚光灯
-* `W`：水印
-* `Q`：二维码
-* `⌘V`：粘贴图片
-
-<!--idoc:config:
-title: Scap 
-keywords: 截图工具,图像标注,图片编辑,屏幕捕获,绘图工具,图像导出,水印添加,二维码生成,二维码识别,OCR识别,模糊马赛克,画板工具,标注工具,macOS截图
-description: Scap 是一款专为图像截图捕获、标注和导出而设计的 macOS 应用。提供专注的编辑画布，集成绘图工具、模糊/马赛克、聚光灯、二维码叠加、水印、图片图层粘贴、截图 OCR 和二维码识别等功能，支持 OCR 文本结果可编辑、编辑现有图像、自由画板模式以及屏幕截图模式。
--->
+**日常日志**  
+ 
+便捷记录尿布状态、睡眠时段、哭闹情况及日常护理各类事项。 
+ 
+**健康监测**  
+ 
+追踪体温变化、皮肤状况、每日健康状态，可添加备注详细记录。 
+ 
+**成长时间线**  
+ 
+长期记录体重、身长 / 身高、头围，留存宝宝发育里程碑事件。 
+ 
+**智能提醒**  
+ 
+自定义疫苗接种、儿保体检、成长录入、日常护理等事项提醒。 
+  
+**数据管理**  
+   
+支持数据备份、导出与记录管理，安全长久留存育儿所有数据。 

@@ -6,34 +6,21 @@
 更新日志
 ===
 
-<a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6758053530" title="Scap for macOS">
-<img alt="Scap AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
+<a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6758053530" title="萌芽日记 for macOS">
+<img alt="萌芽日记 AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
-## [v1.2.0](https://github.com/jaywcjlove/scap/releases/tag/v1.2.0)
+## [v0.1.0](https://github.com/jaywcjlove/scap/releases)
 
-1. feat: 在帮助菜单中添加翻译贡献链接
-2. feat: 新增德语、繁体中文和法语支持
-3. feat: 将截图操作移入“文件”菜单
-4. feat: 新增截图 OCR 和二维码识别功能
-5. perf: 支持 OCR 文本结果可编辑，并优化预览窗口和快捷键处理
-6. fix: 修复画板导出背景、画布渲染及设置面板显示问题
+1. feat: 新增宝宝档案管理，支持多宝宝独立记录与快捷切换
+2. feat: 新增喂养记录（母乳/奶粉/辅食）与夜奶标记、喂养间隔统计
+3. feat: 新增排便、小便、睡眠记录，支持按日/周/月趋势查看
+4. feat: 新增体温、健康状态、皮肤问题、哭闹与日常护理记录
+5. feat: 新增体重、身长、头围生长曲线与发育节点记录
+6. feat: 新增提醒、备份、导出等数据管理能力
 
-## [v1.1.0](https://github.com/jaywcjlove/scap/releases/tag/v1.1.0)
+## [计划中]
 
-1. feat: 尺寸设置增加数字显示。
-2. feat: 添加文本标注功能。
-3. feat: 添加韩语/日语支持。
-4. feat: 添加状态栏菜单设置。
-5. style: 允许窗口在运行时调整大小。
-6. refactor: 添加自定义通知并优化截图处理逻辑。
-7. fix: 修复初始化及图像清除逻辑问题。
-8. fix: 修复选择模式下编辑文本的问题。
-9. fix: 解决图片偶发无法打开的问题。
-10. fix: 修复截图加载问题。
-11. fix: 修复设置面板滚动溢出问题。
-12. fix: 修复开启水印时默认显示水印设置的问题。
-13. fix: 修正马赛克默认值。
-14. fix: 修复快捷键显示问题。
-
-## [v1.0.0](https://github.com/jaywcjlove/scap/releases/tag/v1.0.0)
+1. perf: 优化高频记录入口，减少单次记录步骤
+2. feat: 完善疫苗接种、儿保检查与辅食过敏提醒能力
+3. feat: 持续增强数据导出与跨设备同步体验

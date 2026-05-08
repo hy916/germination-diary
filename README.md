@@ -8,7 +8,7 @@
   <br />
   <img src="./assets/logo.png" width="160" height="160">
   <h1>
-    Scap
+    Sprout Diary
   </h1>
   <!--rehype:style=border: 0;-->
   <p>
@@ -17,7 +17,7 @@
     </a>
     <img src="https://img.shields.io/badge/macOS-26%2B-363b44?logo=apple&logoColor=white" alt="macOS 14+" />
     <a href="https://jaywcjlove.github.io/maslink/?id=6758053530">
-      <img src="https://img.shields.io/badge/Downloads-AppStore-363b44?logo=AppStore&logoColor=white" alt="Scap AppStore" />
+      <img src="https://img.shields.io/badge/Downloads-AppStore-363b44?logo=AppStore&logoColor=white" alt="Sprout Diary AppStore" />
     </a>
   </p>
   <p>
@@ -26,52 +26,36 @@
     <a href="./CHANGELOG.md">Changelog</a>
   </p>
   <p>
-    <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6758053530" title="Scap for macOS">
-      <img alt="Scap AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
+    <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6758053530" title="Sprout Diary for macOS">
+      <img alt="Sprout Diary AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
     </a>
   </p>
 </div>
 
-![](./assets/screenshots-1.png)
+![](./assets/01.jpg)
 
-![](./assets/screenshots-2.png)
+![](./assets/02.jpg)
 
-![](./assets/screenshots-3.png)
+![](./assets/03.jpg)
 
-![](./assets/screenshots-4.png)
+![](./assets/04.jpg)
 
-Scap is a macOS app designed specifically for image screenshotting, annotation, and canvas creation. It provides a focused editing canvas integrated with powerful tools, including drawing tools, blur/mosaic, spotlight, QR code overlay, watermark, image layer paste functions, screenshot OCR, and QR code recognition. In addition to robust editing capabilities, Scap supports editable OCR text results, editing existing images, a free drawing board mode, a precise screenshot mode, and a localized interface in Simplified Chinese, Traditional Chinese, English, German, French, Japanese, and Korean, helping users efficiently complete image processing tasks.
+![](./assets/05.jpg)
+
+![](./assets/06.jpg)
+
+![](./assets/07.jpg)
+
+![](./assets/08.jpg)
+
+Sprout Diary is a parenting app designed for families with babies aged 0-3. It helps parents and caregivers record feeding, diaper logs, sleep, body status, and growth development in a structured timeline. The app focuses on reducing fragmented notes and making daily childcare records easier to track, review, and export when needed.
 
 ## Features
 
-- **Screenshots:** Area capture mode with crosshair guidance, plus OCR and QR code recognition for captured content.
-- **Edit Mode:** Annotation workflow designed for photos and screenshots.
-- **Drawing Board Mode:** A blank canvas for freeform creation.
-- **Toolbox:** Crop/selection, arrow, freehand brush, line (solid/dashed), rectangle, ellipse, counter marks, blur/mosaic, spotlight, QR code, watermark, and pasted image layers.
-- **OCR Results:** Recognized text remains editable for quick cleanup and reuse.
-- **Image Overlay:** Paste images with auto-scaling to fit the canvas.
-- **Export & Sharing:** Export or copy to clipboard with precise DPI handling.
-- **Localization:** Supports Simplified Chinese, Traditional Chinese, English, German, French, Japanese, and Korean.
-- **Social Badge:** Optional social platform corner badge (icon + name/handle).
-
-## Modes
-
-* `Edit`: Annotate a specific image.
-* `DrawingBoard`: Free drawing canvas.
-* `ScreenCrop`: Select and capture a screen region.
-
-## Shortcuts (Tools)
-
-* `V`: Crop / Select
-* `A`: Arrow
-* `T`: 文本
-* `D`: Free Brush
-* `L`: Line
-* `R`: Rectangle
-* `O`: Ellipse
-* `C`: Number Marker
-* `B`: Blur / Mosaic
-* `S`: Spotlight
-* `W`: Watermark
-* `Q`: QR Code
-* `⌘V`: Paste Image
+- **Baby Profiles:** Create and manage multiple baby profiles for multi-child families.
+- **Feeding Records:** Log breastfeeding, formula, solids, water intake, intervals, and night feeds.
+- **Daily Logs:** Record diaper activity, sleep sessions, crying, and routine care events.
+- **Health Tracking:** Track temperature, skin issues, and daily health conditions with notes.
+- **Growth Timeline:** Record weight, length/height, head circumference, and milestones over time.
+- **Reminders:** Set reminders for vaccines, checkups, growth entries, and daily care tasks.
+- **Data Management:** Support backup, export, and record management for long-term retention.

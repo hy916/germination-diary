@@ -6,42 +6,42 @@
 Privacy Policy
 ===
 
-Thank you for using **Scap**! We highly value your privacy. This document explains how we handle your data when you use this app.
+Thank you for using **Sprout Diary**. We value your privacy. This document explains how your data is handled while using the app.
 
 ## Information Collection
 
-**Scap** is a professional macOS application designed specifically for image screenshot capture, annotation, and drawing board creation. It provides a focused editing canvas that integrates multiple powerful features, including drawing tools, blur/mosaic, spotlight, QR code overlay, watermark, and image layer pasting. In addition to robust editing capabilities, Scap supports editing existing images, a free drawing board mode for creative projects, and a precise screenshot mode, helping users efficiently complete image processing tasks. All operations are performed locally on your device.
+**Sprout Diary** is a baby growth record app for families. It is used to record baby profile details, feeding, diaper logs, sleep, health status, and growth development data.
 
-**Please Note:** This application is designed for image editing and annotation purposes. Please use the tools responsibly and respect copyright when editing and sharing images.
+**Please Note:** You may enter parenting-related notes and records. Please avoid entering unnecessary sensitive information unrelated to childcare.
 
-**Important Note:** Scap operates completely offline. It does not collect, store, or transmit any personal information. The app does not connect to remote servers or integrate any third-party services.
+**Important Note:** We aim to keep processing local whenever possible. We do not collect, sell, or misuse personal data without your explicit consent.
 
 ### a. Local Data Processing
 
-* All settings and operations are stored only on your local device.
-* The app does not record your usage behavior or upload any data.
+* Your records are stored locally by default.
+* If you choose backup or sync features, data is used only for backup and recovery purposes.
 
 ### b. No Logging
 
-Scap does not generate or send any logs. All operations and configurations are performed locally, with no remote communication involved.
+We do not use personally identifiable information for ad targeting, and we do not sell personal data to unrelated third parties.
 
 ## Use of Data
 
-Since Scap does not collect or store any user data, there is no use or sharing of data. All of your usage remains private and offline.
+Data is used only as needed for core product features, such as timeline display, statistics, reminders, and exports. We do not share personal data externally unless required by law or explicitly authorized by you.
 
 ## Third-Party Services
 
-Scap does not use any third-party analytics tools, advertising platforms, or cloud services, nor does it share or sell user information to any third party.
+We do not integrate third-party ad tracking services unrelated to core parenting records. If third-party services are added in the future, we will disclose the purpose and scope in advance.
 
 ## Data Security
 
-Since all data is stored locally and the app does not communicate externally, all your settings and usage information are protected by the security mechanisms of macOS.
+We apply reasonable safeguards to protect your data, including local storage protection, necessary access control, and security updates to reduce risks of leakage, tampering, or loss.
 
 ## User Control
 
-* You may delete all Scap data and settings at any time.
-* When you uninstall the app, all related data will be permanently removed from your device.
-* The app does not perform any cloud backups — all data is fully under your control.
+* You can modify, export, or delete your baby records at any time.
+* You can enable or disable reminders and backup features based on your preference.
+* After uninstalling the app, local data is removed with the app (subject to system behavior).
 
 ## Changes to the Privacy Policy
 
@@ -52,4 +52,4 @@ We may update this privacy policy from time to time. If there are significant ch
 If you have any questions or need further assistance regarding this privacy policy, please contact us at:  
 📧 **[kennyiseeyou@gmail.com](mailto:kennyiseeyou@gmail.com)**
 
-This policy is effective as of **Feb 10, 2026**.
+This policy is effective as of **May 8, 2026**.
