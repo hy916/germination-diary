@@ -25,11 +25,6 @@
     <a target="_blank" href="https://github.com/hy916/scap/issues/new?template=bug_report_cn.yml">联系&支持</a> • 
     <a href="./CHANGELOG.zh.md">更新日志</a>
   </p>
-  <p>
-    <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6758053530" title="萌芽日记 for macOS">
-      <img alt="萌芽日记 AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
-    </a>
-  </p>
 </div>
 
 ![](./assets/01.jpg)
